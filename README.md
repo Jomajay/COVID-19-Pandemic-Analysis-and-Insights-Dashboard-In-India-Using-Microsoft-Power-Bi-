@@ -1,0 +1,2 @@
+# COVID-19-Pandemic-Analysis-and-Insights-Dashboard-In-India-Using-Microsoft-Power-Bi-
+The COVID-19 Pandemic Analysis and Insights Dashboard uses Microsoft Power BI to visualize key metrics like mortality rates, confirmed cases, cured cases, and vaccination data. It aims to provide actionable insights for public health officials, policymakers, and the public, empowering informed decisions and effective interventions.
