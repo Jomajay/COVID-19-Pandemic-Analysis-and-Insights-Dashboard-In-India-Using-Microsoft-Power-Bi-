@@ -6,7 +6,10 @@ My Power BI Dashboard
 
 Here is the  Power BI dashboard:
 
+## First Dashboard
 ![Dashboard Image 1](https://drive.google.com/uc?export=view&id=1lt1HNXNjFG0gyOJGn6Y05XLD4BySlbIV)
+
+## Second Dashboard
 ![Dashboard Image 2](https://drive.google.com/uc?export=view&id=1FVbdenASjuq4pScFlUXoG7-EIqEz3zvs)
 
 ## Table of Contents
@@ -95,7 +98,7 @@ A bar chart compares the monthly doses administered to different genders, provid
 ## Conclusion
 The COVID-19 Pandemic Analysis and Insights Dashboard serves as a vital tool for understanding the impact of the pandemic and guiding public health responses. By integrating diverse data points and visualizing trends, geographical insights, and vaccination progress, the dashboard empowers decision-makers with the information needed to combat COVID-19 effectively. Continued analysis and data-driven strategies are essential for navigating the ongoing challenges and achieving sustainable health outcomes.
 
-[View the COVID-19 Pandemic Analysis and Insights Dashboard](https://app.powerbi.com/links/OIixS-qzzp?ctid=009f81a6-c776-4a98-b42c-0951ae796d92&pbi_source=linkShare&bookmarkGuid=d7cebae3-ab9a-4def-ab3d-c0aba82de65e)
+Interact with the dashboard:✍✍✍ [View the COVID-19 Pandemic Analysis and Insights Dashboard](https://app.powerbi.com/links/OIixS-qzzp?ctid=009f81a6-c776-4a98-b42c-0951ae796d92&pbi_source=linkShare&bookmarkGuid=d7cebae3-ab9a-4def-ab3d-c0aba82de65e)
 
 ---
 
